@@ -1,0 +1,90 @@
+No.,Chinese Hospital Name (if applicable),Hospital,Province,City,Department,Doctor's Name,Can HRT Guidance,Can Continue HRT,Can Initial HRT,Evidence Required,MtF HRT Medication,FtM HRT Medication,FTM,MTF,Note,latitude,longitude
+1.0,瑞金医院（上海交通大学医学院附属）,"Ruijin Hospital, Shanghai Jiao Tong University School of Medicine",,Shanghai,Endocrinlolgy,Hongda Zhu,No,Yes,Not Sure,"diagnosis of ""transsexualism"" and a related medical perscription",Estradiol valerate,Not Sure,not mentioned,Yes,Community report,31.212539,121.471385
+2.0,复旦大学附属中山医院东院,"Zhongshan Hospital, Fudan University (East Branch)",,Shanghai,Endocrinology,X.Li,No,Yes,Not Sure,"diagnosis of ""transsexualism"" ",Estradiol valerate,Not Sure,not mentioned,Yes,Community report,33.253321,120.448529
+3.0,上海市第九人民医院,Shanghai Ninth People's Hospital,,Shanghai,Plastic Surgery,Chen Cheng,Yes,Yes,Not Sure,"diagnosis of ""transsexualism"" ",Not Sure,Testosterone Undecanoate Soft Capsules,Yes,Yes,Community report,31.186736,121.531773
+4.0,上海市第一人民医院,Shanghai General Hospital,,Shanghai,Not Sure,,Unknown,Yes,No,"Requires a medical record stating ""androgen therapy is recommended"" or an existing prescription",,Testosterone Undecanoate Soft Capsules,Yes,Not Sure,,31.038731,121.225148
+5.0,北京大学第三医院,Peking University Third Hospital,,Beijing,Plastic Surgery,B. Pan,Yes,Yes,Yes,psychiatry certificate from grade 3 hospitals,Not Sure,Testosterone Undecanoate Injection,Yes,Yes,Offer online option,39.981775,116.360478
+6.0,北京大学第三医院,Peking University Third Hospital,,Beijing,Endocrinology,Y.Liu,Yes,Yes,Yes,psychiatry certificate from grade 3 hospitals,Not Sure,Testosterone Undecanoate Injection,Yes,Yes,Offer online option,39.981775,116.360478
+7.0,北京大学第三医院,Peking University Third Hospital,,Beijing,Plastic Surgery,R.Zhao,Yes,Yes,Yes,psychiatry certificate from grade 3 hospitals,Not Sure,Testosterone Undecanoate Injection,Yes,Yes,Offer online option,39.981775,116.360478
+8.0,北京大学第三医院,Peking University Third Hospital,,Beijing,Plastic Surgery,X.Chang,Yes,Yes,Yes,psychiatry certificate from grade 3 hospitals,Not Sure,Testosterone Undecanoate Injection,Yes,Yes,Offer online option,39.981775,116.360478
+9.0,北京大学第三医院,Peking University Third Hospital,,Beijing,Gynecolog,Kun Zhang ,Yes,Yes (only after in-person meeting),No,,,Testosterone Undecanoate Injection,Yes,Yes,Offer online option,39.981775,116.360478
+10.0,北京大学第三医院,Peking University Third Hospital,,Beijing,Plastic Surgery,Shanshan Du,Yes,Yes (only after in-person meeting),No,,,Testosterone Undecanoate Injection,Yes,Yes,Offer online option,39.981775,116.360478
+11.0,北京大学第三医院,Peking University Third Hospital,,Beijing,Reconstructive Surgery (Plastic Surgery,Xu Chang,Yes,Yes (only after in-person meeting),No,,,Testosterone Undecanoate Injection,Yes,Yes,Offer online option,39.981775,116.360478
+12.0,北京大学第三医院,Peking University Third Hospital,,Beijing,Medical Psychology,Meng Han,Yes,Yes (only after in-person meeting),No,,,Testosterone Undecanoate Injection,Yes,Yes,Offer online option,39.981775,116.360478
+13.0,北京大学第三医院,Peking University Third Hospital,,Beijing,Molding,Wenhui Yang,Yes,Yes (only after in-person meeting),No,,,Testosterone Undecanoate Injection,Yes,Yes,Offer online option,39.981775,116.360478
+14.0,中南大学湘雅三医院,Third Xiangya Hospital of Central South University,Hunan,Changsha,Urology,Z.Long,No,Yes,Yes,"ID and diagnosis of ""transsexualism"" or a related medical perscription","Estreva
+Progynova
+Spironolactone
+can perscribe Cyproterone acetate, but cannot pickup within the hospital",Testosterone Undecanoate Soft Capsules,Yes,Yes,Community report,28.220483,112.944798
+15.0,浙江大学医学院附属第二医院,The Second Affiliated Hospital of Zhejiang University School of Medicine,Zhejiang,Hangzhou,Endocrinology,,Likely,Yes,Likely,psychiatric medical records,"Estradiol Valerate Tablets (Progynova)
+Spironolactone Tablets",,not mentioned,Yes,Community report,30.246566,120.209903
+16.0,暨南大学附属第一医院（东圃院区）,The First Affiliated Hospital of Jinan University (Dongpu Campus),Guangdong,Guangzhou,Gender-Specific Medicine and Intimate Rejuvenation,L.Gao,Yes,Yes,Not Sure,psychiatric medical records,"Progynova
+Estradiol Gel
+Cyproterone Acetate
+spironolactone
+",Not Sure,not mentioned,Yes,Community report,23.124984,113.40054
+17.0,大连医科大学附属第二医院,The Second Hospital of Dalian Medical University,Liaoning,Dalian,Endocrinology,X.Zhang,No,Yes,Not Sure,"diagnosis of ""transsexualism"" ","Progynova
+Cyproterone
+Estradiol gel
+Estradiol valerate injection (Rici)",Not Sure,not mentioned,Yes,Community report,38.883476,121.569103
+18.0,山东大学齐鲁医院,Qilu Hospital of Shandong University,Shandong,Qingdao,Endocrinology,L.He,Yes,Yes,Not Sure,must first see Dr. Gao Jin at the same hospital before scheduling appointment,"Progynova
+Spironolactone",Not Sure,not mentioned,Yes,Community report,36.066938,120.382665
+19.0,华中科技大学协和深圳医院,"Union Shenzhen Hospital, Huazhong University of Science and Technology",Guangdong,Shenzhen,Endocrinology,Unknown,Unknown,Yes,Not Sure,Unknown,Estradiol gel,Not Sure,not mentioned,Yes,Community report,22.532032,113.923598
+20.0,台州市第四人民医院,Taizhou Fourth People's Hospital,Jiangsu,Taizhou,Endocrinology,Jiawei Ren,Unknown,Yes,Not Sure,Diagnosis certificate + previous prescription,Progynova (estradiol valerate),,not mentioned,Yes,Community report,28.655716,121.42079
+21.0,浙江大学医学院附属第一医院,"The First Affiliated Hospital, Zhejiang University School of Medicine",Zhejiang,Hangzhou,Endocrinology,Unknown,Unknown,Yes,Not Sure,Diagnosis certificate + previous prescription,Estradiol gel,Testosterone Undecanoate Soft Capsules.,Yes,Yes,Community report,30.246566,120.209903
+22.0,甘肃省妇幼保健院,Gansu Provincial Maternal and Child Health Hospital,Gansu,Lanzhou,Endocrinology,Juan Fu,Unknown,Yes,Not Sure,Previous prescription or medical record,Progynova (estradiol valerate),,not mentioned,Yes,Community report,36.069771,103.778103
+23.0,兰州大学第一医院,The First Hospital of Lanzhou University,Gansu,Lanzhou,Endocrinology,Ying Niu,Unknown,Yes,Not Sure,Previous prescription or medical record,Estradiol valerate tablets (Xianju Pharmaceutical),,not mentioned,Yes,Community report,36.047058,103.868069
+24.0,上海四一一医院,Shanghai 411 Hospital,,Shanghai,Plastic Surgery,Yede Zhao,Unknown,Yes,Not Sure,Unknown,Not Sure,,not mentioned,Yes,Community report,31.265028,121.480704
+25.0,海军军医大学附属长海医院,Shanghai Changhai Hospital,,Shanghai,Endocrinology,General Outpatient Clinic,Yes,Yes,Not Sure,Unknown,estradiol gel,,not mentioned,Yes,Community report,31.3085,121.5280
+26.0,海军军医大学附属长征医院,Shanghai Changzheng Hospital,,Shanghai,Endocrinology,General Outpatient Clinic,Yes,Yes,Not Sure,Unknown,estradiol gel,,not mentioned,Yes,Community report,31.2335,121.4629
+27.0,上海市浦东新区人民医院,Pudong New Area People's Hospital,,Shanghai,Endocrinology,Ying Wang (Specialist Clinic),Yes,Yes,Not Sure,Diagnosis certificate,May issue a handwritten prescription upon presentation of a diagnosis certificate.,,not mentioned,Yes,Community report,31.190426,121.702609
+28.0,云南九洲医院,Yunnan Jiuzhou Hospital,Yunnan,Kunming,Not Sure,,No,Yes,No,Medication available for purchase within the hospital,Not Sure,"Medication available for purchase within the hospital
+",Yes,Not Sure,,24.88149,102.833669
+29.0,中山大学孙逸仙纪念医院,"Sun Yat-sen Memorial Hospital, Sun Yat-sen University",Guangdong,Guangzhou,Not Sure,Chengzhi Wang,Yes,Yes,Not Sure,Not Sure,Not Sure,Not Sure,Yes,Not Sure,,23.1122,113.2509
+30.0,中山大学附属第三医院,"The Third Affiliated Hospital, Sun Yat-sen University",Guangdong,Guangzhou,Not Sure,,No,Yes,Not Sure,Not Sure,Not Sure,Not Sure,Yes,Not Sure,,23.102804,113.114489
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,Not including Trans Youth related Data,,,,,,,,,,,,,,
+,,,Not including GnRH( puberty hormone blocker),,,,,,,,,,,,,,
+,,,As of Jul 20 2026,,,,,,,,,,,,,,

@@ -1,0 +1,12 @@
+﻿Target_Group,Generic_Name,WPATH Regimen,China GAHT Status,Available in Hospitals,Online Prescription
+Transfeminine,Estrogen,Oral/Sublingual Estradiol,Approved,Yes,Yes
+Transfeminine,Estrogen,Estradiol Transdermal Patch,Not Available,No,No
+Transfeminine,Estrogen,Estradiol Gel,Approved,Yes,Yes
+Transfeminine,Estrogen,Parenteral Estradiol Valerate,Not Available,No,No
+Transfeminine,Anti-androgens,Cyproterone Acetate,Approved,Yes,No
+Transfeminine,Anti-androgens,Spironolactone,Approved,Yes,Yes
+Transmasculine,Testosterone,Parenteral Testosterone Enanthate,Not Available,No,No
+Transmasculine,Testosterone,Testosterone Undecanoate,Approved,Yes,No
+Transmasculine,Testosterone,Testosterone Undecanoate,Approved,Yes,No
+Transmasculine,Testosterone,Testosterone Transdermal Gel,Not Available,No,No
+Transmasculine,Testosterone,Testosterone Transdermal Patch,Not Available,No,No
